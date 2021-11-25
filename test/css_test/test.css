@@ -1,0 +1,112 @@
+.table1 {
+    height: 562px;
+    width: 100%;
+    background:rgb(130, 193, 218);
+    
+}
+.left {
+    padding: 8%;
+}
+.left1 {
+    font-size: 270%;
+    color: white;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-stretch: ultra-expanded;
+}
+.left2 {
+    font-size: 120%;
+    color: white;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-stretch: ultra-expanded;
+}
+.right {
+    padding: 0%;
+}
+.table2 {
+    height: 50px;
+    width: 100%;
+    background: white;
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+.table21 {
+    background: black;
+    color: white;
+    height: 100%;
+    width: 100%;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-stretch: ultra-expanded;
+    font-size: 120%;
+    border: 0;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.block1 {
+    width: 54.5%;
+    height: 562px;
+    background:rgb(130, 193, 218);
+    float: left;
+}
+.block12 {
+    padding: 30% 15%;
+}
+.text1 {
+    word-break: break-all;
+    font-size: 270%;
+    color: white;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-stretch: ultra-expanded;
+}
+.text2 {
+    word-break: break-all;
+    font-size: 120%;
+    color: white;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-stretch: ultra-expanded;
+    line-height: 30px
+}
+.block2 {
+    float: left;
+}
+.block13 {
+    
+}
+.block132 {
+    background: black;
+    color: white;
+    height: 50px;
+    width: 150%;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-stretch: ultra-expanded;
+    font-size: 120%;
+    border: 0;
+}
+.em {
+    float: left;
+    display: block;
+    width: 250px;
+    height: 40px;
+}
+.bt {
+    float: left;
+}
+div img {
+    height: 562px;
+}
+.block132:hover {
+    background: blue;
+}
+.block132:focus {
+    background:red;
+}
